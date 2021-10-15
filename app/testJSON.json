@@ -1,0 +1,101 @@
+[
+  {
+    "firstName": "Frank",
+    "lastName": "Rudabega",
+    "courses": [
+      {
+        "number": 1103,
+        "subject": "Basket Weaving",
+        "title": "Intro to Basket Weaving"
+      },
+      {
+        "number": 3221,
+        "subject": "Alchemy",
+        "title": "Basics of Homunculi"
+      },
+      {
+        "number": 1185,
+        "subject": "Alchemy",
+        "title": "Philosopher Stone basics"
+      },
+      {
+        "number": 4731,
+        "subject": "Alchemy",
+        "title": "Advanced Alchemical Reproduction"
+      }
+    ]
+  },
+  {
+    "firstName": "Genny",
+    "lastName": "Badabadaboo",
+    "courses": [
+      {
+        "number": 1103,
+        "subject": "Basket Weaving",
+        "title": "Intro to Basket Weaving"
+      },
+      {
+        "number": 3221,
+        "subject": "Alchemy",
+        "title": "Basics of Homunculi"
+      },
+      {
+        "number": 1185,
+        "subject": "Alchemy",
+        "title": "Philosopher Stone basics"
+      },
+      {
+        "number": 4731,
+        "subject": "Alchemy",
+        "title": "Advanced Alchemical Reproduction"
+      }
+    ]
+  },
+  {
+    "firstName": "Dilbert",
+    "lastName": "Bilberto",
+    "courses": [
+      {
+        "number": 3343,
+        "subject": "Basket Weaving",
+        "title": "Galaxy Weave Technique"
+      },
+      {
+        "number": 3221,
+        "subject": "Alchemy",
+        "title": "Basics of Homunculi"
+      },
+      {
+        "number": 4731,
+        "subject": "Alchemy",
+        "title": "Advanced Alchemical Reproduction"
+      }
+    ]
+  },
+  {
+    "firstName": "Yoda",
+    "lastName": "Badoda",
+    "courses": [
+      {
+        "number": 2103,
+        "subject": "Basket Weaving",
+        "title": "Intermediate Basket Weaving"
+      },
+      {
+        "number": 3343,
+        "subject": "Basket Weaving",
+        "title": "Galaxy Weave Technique"
+      },
+      {
+        "number": 1107,
+        "subject": "Alchemy",
+        "title": "So you want to turn lead into gold"
+      }
+    ]
+  },
+  {
+    "firstName": "Slacker",
+    "lastName": "NoClass",
+    "courses": []
+  }
+]
