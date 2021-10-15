@@ -36,9 +36,9 @@ public class App extends Application{
     public List<Student> studentList;
     private List<Course> courseList;
 
-    public String getGreeting() { //kept for AppTest.java for now
-        return "Hello World!";
-    }
+//    public String getGreeting() { //kept for AppTest.java for now
+//        return "Hello World!";
+//    }
     @Override
     public void start(Stage stage) throws Exception {
         //Initialize data structures
